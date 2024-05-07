@@ -10,3 +10,6 @@
 ```js
 console.log("hello world")
 ```
+
+- [x] This one is completed
+- [ ] This one is not completed
